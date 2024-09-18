@@ -1,4 +1,10 @@
-body {    
+body {
+    /* streaches background image withou repeating */
+    /* background-repeat: no-repeat; */
+
+    /* makes background image cover the entire screen */
+    background-size: cover;
+
     background-image: url("bg-dark-gold.jpg");
     padding: 5px;
 }
